@@ -10,11 +10,11 @@ Lately that's:
   (paper's still in progress)
 - AI / prompt engineering: mostly system prompts, evals, and working out why the
   model did something dumb
-- a rotating pile of side projects — card games, a trading-card marketplace, and some
+- a rotating pile of side projects: card games, a trading-card marketplace, and some
   personal finance automation I built because I got tired of doing it by hand
 
 The animation background means there's usually some UI/UX and illustration in the mix
-too — I like when a tool actually looks like someone cared.
+too. I like when a tool actually looks like someone cared.
 
 Things I reach for: `Python`, `TypeScript`, `React`, `Node.js`, `PostgreSQL`,
 and a rotating cast of LLM APIs.
@@ -22,9 +22,7 @@ and a rotating cast of LLM APIs.
 Away from the screen I'm usually lifting, sinking too many hours into Path of Exile
 1 and 2, or overthinking the rules of a card game I'm designing.
 
-If you're working on LLM tooling, deep learning, game design, or design systems —
+If you're working on LLM tooling, deep learning, game design, or design systems
 or just want to compare notes — I'm happy to talk.
 
 📫 bombig@gmail.com
-
-<sub>The username is a joke, but the projects are real.</sub>
